@@ -9,6 +9,6 @@ Also added a descriptive title.
 
 ![Screenshot 1](https://github.com/devihall/HoriseonMarketing/blob/main/Screen%20Shot%202022-06-28%20at%208.24.28%20AM.png)
 
-![Screenshot 2](https://github.com/devihall/HoriseonMarketing/blob/main/Screen%20Shot%202022-06-28%20at%208.25.40%20AM.png
+![Screenshot 2](https://github.com/devihall/HoriseonMarketing/blob/main/Screen%20Shot%202022-06-28%20at%208.25.40%20AM.png)
 
 Deployed website https://devihall.github.io/HoriseonMarketing/
