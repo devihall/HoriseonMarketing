@@ -1,4 +1,4 @@
-# week1challenge-HoriseonMarketing
+# Horiseon Marketing Agency- more accesible than ever before!
 Refactored this webpage to meet accessibility standards.
 Added semantic HTML elements.
 Ensured that elements follow a logical structure independent of styling and positioning
